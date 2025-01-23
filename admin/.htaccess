@@ -1,0 +1,8 @@
+# IP Restriction for Admin Access
+# Order Deny,Allow
+# Deny from all
+
+# Add your IP addresses here (replace with your actual IPs)
+# Allow from 127.0.0.1
+# Allow from ::1
+# Allow from localhost
